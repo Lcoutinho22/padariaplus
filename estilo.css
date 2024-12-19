@@ -1,0 +1,67 @@
+body{
+    background-color: #f4f0e5;
+    font-family: tahoma;
+    text-align: center;
+    width: 100%;
+}
+.titulo{
+    text-align: center;
+    width: 700px;
+    margin: 20px auto;
+}
+.logo-tipo{
+    width: 300px;
+}
+a {
+    padding: 5px;
+    margin: 0px 10px;
+    color: #542f0c;
+    font-size: 25px;
+}
+.sobre h1 {
+    font-size: 40px;
+    font-weight: 600;
+    border-top: 1px solid #de8e37;
+    padding-top: 30px;
+    margin-top: 30px;
+    margin-bottom: 0px;
+}
+.sobre h2{
+    font-weight: normal;
+    color: #de8e37;
+    margin-top: 15px;
+}
+.sobre img {
+    border: 2px solid #542f0c;
+    width: 800px;
+}
+.Produtos {
+    background-color: #de8e37;
+}
+.Produtos h3 {
+    font-size: 30px;
+    font-weight: 500;
+    padding: 2px;
+    margin-top: 20px;
+}
+.Produtos img {
+    border: 2px solid #542f0c;
+    width: 800px;
+}
+.Produtos p {
+    font-size: 20px;
+    font-weight: 500;
+}
+.contato h3 {
+    font-size: 30px;
+    font-weight: 500;
+    padding: 4px;
+}
+.contato p {
+    font-size: 20px;
+    font-weight: 500;
+}
+span {
+    color: #de8e37;
+    font-weight: 700;
+}
